@@ -34,10 +34,10 @@ Archer, swimmer, percussionist and guitarist.
 <br>
 
 <h2>
-Connect with me<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/Handshake.gif" height="32px">
+Social Networks
 </h2>
 
-| [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/Ciruxx) |  [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Ciruxxi/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Ciruxx) | [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ciro1693@gmail.com)
+| [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/ciro-santillo-2025a6ba) |  [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Ciruxxi/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Ciruxx) | [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ciro1693@gmail.com)
 |:---:|:---:|:---:|:---:|
 
 <br>
