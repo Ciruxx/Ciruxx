@@ -15,6 +15,35 @@
     />
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Ciruxx" alt="Ciruxx"/></p>
+
+### About me
+
+Programming and technology enthusiast, with a rolling release life.
+
+Skills in many programming languages and computer science. Attitude in Co-Working and team
+management.
+
+### Activity
+
+I've taught many courses at Roma Tre University as advance and basic Linux teacher. 
+
+Linux Day organizer at Roma Tre University. 
+
+Archer, swimmer, percussionist and guitarist.
+
+<br>
+
+<h2>
+Connect with me<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/Handshake.gif" height="32px">
+</h2>
+
+| [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/Ciruxx) |  [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Ciruxxi/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Ciruxx) | [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ciro1693@gmail.com)
+|:---:|:---:|:---:|:---:|
+
+<br>
+<br>
+
+
 <!--
 **Ciruxx/Ciruxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
