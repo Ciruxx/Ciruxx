@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/hello.gif" alt="hello-gif">
+    <img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/hello.gif" 
+         alt="hello-gif"
+         width="70%"
+    />
     <br>
     I'm Ciro Santillo. Welcome to my GitHub! 🤗
 </h1>
