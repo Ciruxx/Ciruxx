@@ -23,6 +23,54 @@ Programming and technology enthusiast, with a rolling release life.
 Skills in many programming languages and computer science. Attitude in Co-Working and team
 management.
 
+### Skills
+
+- Back-End
+![Docker](https://img.shields.io/badge/Docker%2050%25-blue.svg)
+![Node.js](https://img.shields.io/badge/Node.js%2024%25-green.svg)
+![Python](https://img.shields.io/badge/Python%208%25-gray.svg)
+![C++](https://img.shields.io/badge/C++%209%25-black.svg)
+![C#](https://img.shields.io/badge/C%23%208%25-white.svg)
+
+- Cloud
+![AWS](https://img.shields.io/badge/AWS%2070%25-orange.svg)
+![GCP](https://img.shields.io/badge/GCP%2015%25-red.svg)
+![Azure](https://img.shields.io/badge/Azure%2015%25-blue.svg)
+
+- Databases
+![MongoDB](https://img.shields.io/badge/MongoDB%2050%25-green.svg)
+![MYSQL](https://img.shields.io/badge/MySQL%2050%25-blue.svg)
+
+- Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin%2080%25-purple.svg)
+![Java](https://img.shields.io/badge/Java%2020%25-orange.svg)
+
+- Front-End
+![React](https://img.shields.io/badge/React%2034%25-orange.svg)
+![HTML](https://img.shields.io/badge/HTML%2033%25-red.svg)
+![CSS](https://img.shields.io/badge/CSS%2033%25-purple.svg)
+
+- Frameworks
+![MaterialUi](https://img.shields.io/badge/MaterialUi%2050%25-blue.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%2050%25-purple.svg)
+
+- Tools
+![Git](https://img.shields.io/badge/Git%2050%25-gray.svg)
+![JetBrains](https://img.shields.io/badge/JetBrains%2050%25-black.svg)
+
+- Operating system
+![Linux](https://img.shields.io/badge/Linux%2099%25-red.svg)
+![Windows](https://img.shields.io/badge/WINDOWS%201%25-blue.svg)
+
+- Agile Methodologies
+![Kanban](https://img.shields.io/badge/Kanban%2050%25-blue.svg)
+![SCRUM](https://img.shields.io/badge/SCRUM%2050%25-blue.svg)
+
+- Software Design
+![Flowcharts](https://img.shields.io/badge/FLowCharts%2080%25-yellow.svg)
+![UML Class Diagrams](https://img.shields.io/badge/UMLClassDiagrams%2020%25-black.svg)
+
+
 ### Activity
 
 I've taught many courses at Roma Tre University as advance and basic Linux teacher. 
