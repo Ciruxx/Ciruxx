@@ -82,9 +82,9 @@ Archer, swimmer, percussionist and guitarist.
 
 <br>
 
-<h2 align="center">
+<h1 align="center">
     Get In Touch!
-</h2>
+</h1>
 
 <div align="center">
 
