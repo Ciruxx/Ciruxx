@@ -83,11 +83,6 @@ Archer, swimmer, percussionist and guitarist.
 <br>
 
 <h2 align="center">
-    <img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/getintouch.gif" 
-         alt="getintouch-gif"
-         width="100%"
-    />
-    <br>
     Get In Touch!
 </h2>
 
