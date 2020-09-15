@@ -70,7 +70,7 @@ management.
 
 #### Software Design
 ![Flowcharts](https://img.shields.io/badge/Flowcharts-80%25-%23FFAE1A.svg?style=for-the-badge&logo=Puppet)
-![UMLClassDiagrams](https://img.shields.io/badge/UML%20Class%20Diagrams-80%25-%236DB944.svg?style=for-the-badge&logo=SmugMug)
+![UMLClassDiagrams](https://img.shields.io/badge/UML%20Class%20Diagrams-20%25-%236DB944.svg?style=for-the-badge&logo=SmugMug)
 
 ### Activity
 
