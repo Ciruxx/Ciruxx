@@ -88,7 +88,7 @@ Archer, swimmer, percussionist and guitarist.
 
 <div align="center">
 
-| [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/ciro-santillo-2025a6ba) |  [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_thebalto_/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Ciruxx) | [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:ciro1693@gmail.com)
+| [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/ciro-santillo-2025a6ba) |  [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/crumbled_3/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Ciruxx) | [<img src="https://github.com/Ciruxx/Ciruxx/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:ciro1693@gmail.com)
 |:---:|:---:|:---:|:---:|
 
 </div>
